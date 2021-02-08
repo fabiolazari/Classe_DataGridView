@@ -1,0 +1,22 @@
+C:\projetos\Curso C#\Classe_DataGridView\Classe_DataGridView\bin\Debug\Classe_DataGridView.exe.config
+C:\projetos\Curso C#\Classe_DataGridView\Classe_DataGridView\bin\Debug\Classe_DataGridView.exe
+C:\projetos\Curso C#\Classe_DataGridView\Classe_DataGridView\bin\Debug\Classe_DataGridView.pdb
+C:\projetos\Curso C#\Classe_DataGridView\Classe_DataGridView\obj\Debug\Classe_DataGridView.csprojAssemblyReference.cache
+C:\projetos\Curso C#\Classe_DataGridView\Classe_DataGridView\obj\Debug\Classe_DataGridView.Properties.Resources.resources
+C:\projetos\Curso C#\Classe_DataGridView\Classe_DataGridView\obj\Debug\Classe_DataGridView.csproj.GenerateResource.cache
+C:\projetos\Curso C#\Classe_DataGridView\Classe_DataGridView\obj\Debug\Classe_DataGridView.csproj.CoreCompileInputs.cache
+C:\projetos\Curso C#\Classe_DataGridView\Classe_DataGridView\obj\Debug\Classe_DataGridView.exe
+C:\projetos\Curso C#\Classe_DataGridView\Classe_DataGridView\obj\Debug\Classe_DataGridView.pdb
+C:\projetos\Curso C#\Classe_DataGridView\Classe_DataGridView\obj\Debug\Classe_DataGridView.frmCliente.resources
+C:\projetos\Curso C#\Classe_DataGridView\Classe_DataGridView\obj\Debug\Classe_DataGridView.frmCliente2.resources
+C:\projetos\Classe_DataGridView\Classe_DataGridView\bin\Debug\Classe_DataGridView.exe.config
+C:\projetos\Classe_DataGridView\Classe_DataGridView\bin\Debug\Classe_DataGridView.exe
+C:\projetos\Classe_DataGridView\Classe_DataGridView\bin\Debug\Classe_DataGridView.pdb
+C:\projetos\Classe_DataGridView\Classe_DataGridView\obj\Debug\Classe_DataGridView.csprojAssemblyReference.cache
+C:\projetos\Classe_DataGridView\Classe_DataGridView\obj\Debug\Classe_DataGridView.frmCliente.resources
+C:\projetos\Classe_DataGridView\Classe_DataGridView\obj\Debug\Classe_DataGridView.frmCliente2.resources
+C:\projetos\Classe_DataGridView\Classe_DataGridView\obj\Debug\Classe_DataGridView.Properties.Resources.resources
+C:\projetos\Classe_DataGridView\Classe_DataGridView\obj\Debug\Classe_DataGridView.csproj.GenerateResource.cache
+C:\projetos\Classe_DataGridView\Classe_DataGridView\obj\Debug\Classe_DataGridView.csproj.CoreCompileInputs.cache
+C:\projetos\Classe_DataGridView\Classe_DataGridView\obj\Debug\Classe_DataGridView.exe
+C:\projetos\Classe_DataGridView\Classe_DataGridView\obj\Debug\Classe_DataGridView.pdb
